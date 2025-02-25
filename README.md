@@ -13,7 +13,7 @@ My solution involves a women's reproductive and maternal health diagnostic assis
 - **Preterm Birth Prediction**: Uses AI to analyze risk factors and predict preterm labor, enabling early medical intervention.  
 - **Fetal & Maternal Health Analysis**: Detects potential complications using patient data, including ultrasound imaging and biometric assessments.  
 - **Postpartum Depression & Suicide Risk Screening**: Identifies early signs of postpartum depression and suicidal tendencies, providing personalized mental health support.  
-- **Gestational & Postpartum Health Monitoring**: AI-driven system for early detection of gestational diabetes, postpartum pneumonia, and breast tumors (benign/malignant), ensuring timely intervention and personalized care.  
+- **Gestational & Postpartum Health Monitoring**: AI-driven system for early detection of gestational diabetes and postpartum pneumonia ensuring timely intervention and personalized care.  
  
 ## UI/UX Design
 
