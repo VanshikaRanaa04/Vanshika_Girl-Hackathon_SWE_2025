@@ -18,7 +18,7 @@ My solution involves a women's reproductive and maternal health diagnostic assis
 ## UI/UX Design
 
 <p align="center">
-  <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/409efc36a239ace63d3cbf0376ca2405824bdf61/Login%20Page.png?raw=true" alt="Login Page" width="45%" />
+  <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/b11225c86ed2c53a66f61123359b5ee54f85b090/Login%20Page.png" alt="Login Page" width="45%" />
   <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/409efc36a239ace63d3cbf0376ca2405824bdf61/Home%20Page.png?raw=true" alt="Home Page" width="45%" />
 </p>
 
