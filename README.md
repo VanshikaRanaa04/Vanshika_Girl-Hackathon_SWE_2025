@@ -34,3 +34,11 @@ My solution involves a women's reproductive and maternal health diagnostic assis
 <p align="center">
   <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/89fb86489c55c9808c16906c6e14f30e265cd4d7/Preterm%20Birth%20Prediction.png?raw=true" alt="Preterm Birth Prediction" width="40%"/>
 </p>
+
+## PCOS Diagnosis
+
+## Maternal Health Risk Identification
+
+## Fetal Health Identification
+
+## Pneumonia Diagnosis
