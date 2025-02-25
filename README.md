@@ -1,4 +1,4 @@
-# Diagnostic Assistant
+# Diagnostic Assistant- MamaPulse
 
 ## Problem Statement
 
