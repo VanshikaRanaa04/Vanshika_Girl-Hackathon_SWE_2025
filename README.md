@@ -28,3 +28,6 @@ My solution involves a women's reproductive and maternal health diagnostic assis
   <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/5082419dcb438ebf00316210be3c076649b2e76b/Tracking%20the%20fertility%20window.png?raw=true" width="300" height="200" />
   <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/5082419dcb438ebf00316210be3c076649b2e76b/Tracking%20the%20fertility%20window%20(2).png?raw=true" width="300" height="200" />
 </p>
+
+## Check if a baby is Preterm
+
