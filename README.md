@@ -29,7 +29,7 @@ My solution involves a women's reproductive and maternal health diagnostic assis
   <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/5082419dcb438ebf00316210be3c076649b2e76b/Tracking%20the%20fertility%20window%20(2).png?raw=true" width="300" height="200" />
 </p>
 
-## Check if a baby is Preterm
+## Check if a baby will be Preterm
 
 <p align="center">
   <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/89fb86489c55c9808c16906c6e14f30e265cd4d7/Preterm%20Birth%20Prediction.png?raw=true" alt="Preterm Birth Prediction" width="40%"height="350" />
