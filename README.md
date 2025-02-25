@@ -43,4 +43,9 @@ My solution involves a women's reproductive and maternal health diagnostic assis
 
 ## Pneumonia Diagnosis
 
+<p align="center">
+  <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/34b213a77aa36d593423a5b5e5ed97fa46f1a151/Pneumonia%20Detected.png?raw=true" width="30%" height="250px" />
+  <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/34b213a77aa36d593423a5b5e5ed97fa46f1a151/Pneumonia%20Not%20Detected.png?raw=true" width="30%" height="250px" />
+</p>
+
 ## Postpartum Depression & Suicide Risk Screening
