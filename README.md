@@ -17,3 +17,14 @@ My solution involves a women's reproductive and maternal health diagnostic assis
  
 ## UI/UX Design
 
+<p align="center">
+  <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/409efc36a239ace63d3cbf0376ca2405824bdf61/Login%20Page.png?raw=true" alt="Login Page" />
+</p>
+<h3 align="center">Login Page</h3>
+
+<p align="center">
+  <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/409efc36a239ace63d3cbf0376ca2405824bdf61/Home%20Page.png?raw=true" alt="Home Page" />
+</p>
+<h3 align="center">Home Page</h3>
+
+## Fertility Window Tracker
