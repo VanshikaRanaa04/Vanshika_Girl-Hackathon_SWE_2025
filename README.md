@@ -43,7 +43,6 @@ My solution involves a women's reproductive and maternal health diagnostic assis
 
 ## Maternal Health Risk Identification
 
-## Fetal Health Identification
 
 ## Pneumonia Diagnosis
 
