@@ -18,7 +18,7 @@ from tkinter import messagebox, scrolledtext
 # In[7]:
 
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "sk-proj-77uely_AGdx-JUDO2TjNeeB1xrp1sZ9lrsvzb2dT3kshBlvhnWMcvkPZJ8Ul"
 
 
 # In[9]:
