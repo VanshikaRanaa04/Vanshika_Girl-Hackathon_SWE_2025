@@ -57,3 +57,24 @@ My solution involves a women's reproductive and maternal health diagnostic assis
 <p align="center">
   <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/e18db3e66d9f34e7802d9613e1a4f4ae9d20906d/Mental%20health%20tool.png" width="30%" height="250px" />
 </p>
+
+## Setup Instructions
+
+### Clone the Repository
+1. Fork this repository.
+2. Clone it to your local machine using the following command:
+   ```bash
+   git clone https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025.git
+
+### Install Dependencies
+
+1. Navigate to the project directory and install the necessary dependencies:
+    ```bash
+    pip install numpy pandas matplotlib seaborn scikit-learn tensorflow keras torch streamlit opencv-python
+    ```
+
+2. To launch the Streamlit interface and test the models, run:
+    ```bash
+    streamlit run app.py
+    ```
+
