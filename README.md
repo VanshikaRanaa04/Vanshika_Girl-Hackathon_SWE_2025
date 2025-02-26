@@ -6,7 +6,7 @@ Medicine: A Pharmacist’s assistant, that automatically matches orders against 
 
 ## Overview 
 
-My solution involves a women's reproductive and maternal health diagnostic assistant that leverages AI to analyze medical images, patient data, and symptoms at every stage from preconception to postpartum care.
+My solution involves a one stop solution for women's reproductive and maternal health diagnostic assistant that leverages AI to analyze medical images, patient data, and symptoms at every stage from preconception to postpartum care.
 
 ### **Key Features**  
 - **Fertility & PCOS Tracking**: Monitors ovulation cycles, detects hormonal imbalances, and assesses reproductive health for early diagnosis of PCOS.  
