@@ -58,6 +58,12 @@ My solution involves a women's reproductive and maternal health diagnostic assis
   <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/e18db3e66d9f34e7802d9613e1a4f4ae9d20906d/Mental%20health%20tool.png" width="30%" height="250px" />
 </p>
 
+## Diet Planner ChatBot
+
+<p align="center">
+  <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/2b634f8539147ecea852e3fceb015e7038f7c63b/Diet%20Chatbot.png" width="30%" height="250px" />
+</p>
+
 ## Setup Instructions
 
 ### Clone the Repository
