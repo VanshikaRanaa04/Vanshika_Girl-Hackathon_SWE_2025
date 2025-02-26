@@ -37,12 +37,13 @@ My solution involves a women's reproductive and maternal health diagnostic assis
 
 ## PCOS Diagnosis
 <p align="center">
-  <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/f135abefd1194300fca6d53f3b6fc2dfd0ca1cfe/PCOS_detected.png" width="30%" height="250px" />
   <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/f135abefd1194300fca6d53f3b6fc2dfd0ca1cfe/No_PCOS_detected.png" width="30%" height="250px" />
 </p>
 
 ## Maternal Health Risk Identification
-
+<p align="center">
+  <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/61712b0218b48b54e6f8ced654ced52311b0ac10/Maternal%20Health%20Risk.png" width="30%" height="250px" />
+</p>
 
 ## Pneumonia Diagnosis
 
@@ -52,3 +53,7 @@ My solution involves a women's reproductive and maternal health diagnostic assis
 </p>
 
 ## Postpartum Depression & Suicide Risk Screening
+
+<p align="center">
+  <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/e18db3e66d9f34e7802d9613e1a4f4ae9d20906d/Mental%20health%20tool.png" width="30%" height="250px" />
+</p>
