@@ -64,7 +64,7 @@ My solution involves a one stop solution for women's reproductive and maternal h
   <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/9987aa368031a50849b57a7265925c0c0f38520c/Chatbot.png" width="50%" height="300px" />
 </p>
 
-## Setup Instructions"
+## Setup Instructions
 
 ### Clone the Repository
 1. Fork this repository.
