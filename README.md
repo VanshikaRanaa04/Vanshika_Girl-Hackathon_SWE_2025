@@ -74,6 +74,7 @@ My solution involves a one stop solution for women's reproductive and maternal h
 
 ### Install Dependencies
 
+### 1) For Python Code
 1. Navigate to the project directory and install the necessary dependencies:
     ```bash
     pip install numpy pandas matplotlib seaborn scikit-learn tensorflow keras torch streamlit opencv-python
@@ -83,4 +84,18 @@ My solution involves a one stop solution for women's reproductive and maternal h
     ```bash
     streamlit run app.py
     ```
+### 2) For Frontend Code
 
+1. Install Dependencies:
+    
+    ```bash
+    npm install
+    ```
+    
+
+2. Build and start production:
+
+   ```bash
+     npm run build 
+     npm start
+   ```  
