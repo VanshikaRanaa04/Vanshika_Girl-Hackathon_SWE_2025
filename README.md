@@ -61,10 +61,10 @@ My solution involves a one stop solution for women's reproductive and maternal h
 ## Diet Planner ChatBot
 
 <p align="center">
-  <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/2b634f8539147ecea852e3fceb015e7038f7c63b/Diet%20Chatbot.png" width="30%" height="250px" />
+  <img src="https://github.com/VanshikaRanaa04/Vanshika_Girl-Hackathon_SWE_2025/blob/9987aa368031a50849b57a7265925c0c0f38520c/Chatbot.png" width="40%" height="300px" />
 </p>
 
-## Setup Instructions
+## Setup Instructions"
 
 ### Clone the Repository
 1. Fork this repository.
